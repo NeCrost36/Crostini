@@ -10,20 +10,17 @@ using CrostiniAnalyzer;
 
 namespace Crostini
 {
-	public class Numerics : AnalyzerScript
-	{
-		public class Numerics()
-		{
-			public enum NumericsType
-			{
-				@int,
-				@nint,
-				@uint,
-				@float,
-				@nuint,
-				@double
-
-			}
-		}
-	}
+    public class Numerics : AnalyzerScript
+    {
+        public enum NumericsType
+        {
+            @int,
+            @nint,
+            @uint,
+            @float,
+            //Feature? idk
+            @nuint,
+            @double
+        }
+    }
 }
