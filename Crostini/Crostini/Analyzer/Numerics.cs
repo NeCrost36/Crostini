@@ -20,7 +20,7 @@ namespace Crostini
 				@nint,
 				@uint,
 				@float,
-				@nuint
+				@nuint,
 				@double
 
 			}
