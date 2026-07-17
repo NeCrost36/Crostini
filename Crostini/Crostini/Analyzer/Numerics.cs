@@ -26,4 +26,17 @@ namespace Crostini
 			}
 		}
 	}
+    public class Numerics : AnalyzerScript
+    {
+        public enum NumericsType
+        {
+            @int,
+            @nint,
+            @uint,
+            @float,
+            //Feature? idk
+            @nuint,
+            @double
+        }
+    }
 }
