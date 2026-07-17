@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Crostini",
+    "\\Crostini\\Crostini",
+    "\\Crostini\\Crostini\\Analyzer",
+    "\\Crostini\\Crostini\\Error",
+    "\\Crostini\\Crostini\\Logger",
+    "\\Crostini\\Crostini\\Miscellaneous",
+    "\\Crostini\\Crostini\\Syntax",
+    "\\Crostini\\Crostini\\Syntax\\Hightlighting"
+  ],
+  "SelectedNode": "\\Crostini\\Crostini\\Version.cs",
+  "PreviewInSolutionExplorer": false
+}

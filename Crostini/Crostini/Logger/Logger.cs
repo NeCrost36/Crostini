@@ -4,7 +4,7 @@
 //  / /___/ /  / /_/ (__  ) /_/ / / / / /  
 //  \____/_/   \____/____/\__/_/_/ /_/_/   
 //        
-//Copyright (C) NeCrost36
+//Copyright (C) Ukefixed
 using Crostini
 using System;
 using System.IO;
@@ -181,7 +181,7 @@ namespace Crostini
 //This is its own log
 //Usually not treated as a callable function
 //But if you need, Fine!(In case sometimes exception can't analysis log file
-//using CrostiniLog;
+//using Crostini;
 //    static void Main()
 //{
     // Get logger instance

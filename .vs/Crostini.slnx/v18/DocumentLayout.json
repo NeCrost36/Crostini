@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Crostini\\Version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Miscellaneous\\DebugInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Crostini\\Miscellaneous\\DebugInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Analyzer\\Numerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Crostini\\Analyzer\\Numerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Syntax\\Hightlighting\\Distributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Crostini\\Syntax\\Hightlighting\\Distributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Analyzer\\KeywordScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Crostini\\Analyzer\\KeywordScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Analyzer\\Code2AST.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Crostini\\Analyzer\\Code2AST.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\AnalyzerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Crostini\\AnalyzerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Syntax\\SyntaxScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Crostini\\Syntax\\SyntaxScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Error\\Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Crostini\\Error\\Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Logger\\Logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\Crostini\\Logger\\Logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\.nuspec||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crostini\\.nuspec||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Version.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Version.cs",
+              "RelativeDocumentMoniker": "Crostini\\Crostini\\Version.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Version.cs",
+              "RelativeToolTip": "Crostini\\Crostini\\Version.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:37:11.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Distributor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Syntax\\Hightlighting\\Distributor.cs",
+              "RelativeDocumentMoniker": "Crostini\\Crostini\\Syntax\\Hightlighting\\Distributor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Syntax\\Hightlighting\\Distributor.cs",
+              "RelativeToolTip": "Crostini\\Crostini\\Syntax\\Hightlighting\\Distributor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:31:34.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeywordScript.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Analyzer\\KeywordScript.cs",
+              "RelativeDocumentMoniker": "Crostini\\Crostini\\Analyzer\\KeywordScript.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Analyzer\\KeywordScript.cs",
+              "RelativeToolTip": "Crostini\\Crostini\\Analyzer\\KeywordScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:25:26.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Code2AST.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Analyzer\\Code2AST.cs",
+              "RelativeDocumentMoniker": "Crostini\\Crostini\\Analyzer\\Code2AST.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Analyzer\\Code2AST.cs",
+              "RelativeToolTip": "Crostini\\Crostini\\Analyzer\\Code2AST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:24:00.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Numerics.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Analyzer\\Numerics.cs",
+              "RelativeDocumentMoniker": "Crostini\\Crostini\\Analyzer\\Numerics.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Analyzer\\Numerics.cs",
+              "RelativeToolTip": "Crostini\\Crostini\\Analyzer\\Numerics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:29:04.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DebugInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Miscellaneous\\DebugInfo.cs",
+              "RelativeDocumentMoniker": "Crostini\\Crostini\\Miscellaneous\\DebugInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Miscellaneous\\DebugInfo.cs",
+              "RelativeToolTip": "Crostini\\Crostini\\Miscellaneous\\DebugInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:19:25.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalyzerScript.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\AnalyzerScript.cs",
+              "RelativeDocumentMoniker": "Crostini\\Crostini\\AnalyzerScript.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\AnalyzerScript.cs",
+              "RelativeToolTip": "Crostini\\Crostini\\AnalyzerScript.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAcwJEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:22:51.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SyntaxScript.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Syntax\\SyntaxScript.cs",
+              "RelativeDocumentMoniker": "Crostini\\Crostini\\Syntax\\SyntaxScript.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Syntax\\SyntaxScript.cs",
+              "RelativeToolTip": "Crostini\\Crostini\\Syntax\\SyntaxScript.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:29:43.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Error\\Error.cs",
+              "RelativeDocumentMoniker": "Crostini\\Crostini\\Error\\Error.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Error\\Error.cs",
+              "RelativeToolTip": "Crostini\\Crostini\\Error\\Error.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:19:19.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Logger\\Logger.cs",
+              "RelativeDocumentMoniker": "Crostini\\Crostini\\Logger\\Logger.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Crostini\\Logger\\Logger.cs",
+              "RelativeToolTip": "Crostini\\Crostini\\Logger\\Logger.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAALcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:19:36.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".nuspec",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\.nuspec",
+              "RelativeDocumentMoniker": "Crostini\\.nuspec",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\.nuspec",
+              "RelativeToolTip": "Crostini\\.nuspec",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-17T04:17:30.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Program.cs",
+              "RelativeDocumentMoniker": "Crostini\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\Crostini\\Program.cs",
+              "RelativeToolTip": "Crostini\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T04:13:11.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Crostini\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-17T04:13:03.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

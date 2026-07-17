@@ -4,7 +4,7 @@
 //  / /___/ /  / /_/ (__  ) /_/ / / / / /  
 //  \____/_/   \____/____/\__/_/_/ /_/_/   
 //        
-//Copyright (C) NeCrost36
+//Copyright (C) Ukefixed
 //SyntaxScript
 using System;
 using System.ComponentModel;

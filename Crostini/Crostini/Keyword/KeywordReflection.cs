@@ -4,7 +4,7 @@
 //  / /___/ /  / /_/ (__  ) /_/ / / / / /  
 //  \____/_/   \____/____/\__/_/_/ /_/_/   
 //        
-//Copyright (C) NeCrost36
+//Copyright (C) Ukefixed
 using System;
 using System.Collections.Generic;
 //Using Linq syntax to be more...lightweight?Or what-

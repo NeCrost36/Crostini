@@ -6,8 +6,11 @@ namespace Crostini
     {
         public struct Version
         {
-            public int Major;public int Minor;public int Patch;
-            public int hotfix;public int fix;
+            public int Major;
+            public int Minor;
+            public int Patch;
+            public int hotfix;
+            public int build;
         }
     }
 
